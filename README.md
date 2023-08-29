@@ -6,7 +6,7 @@ just  by giving  some informations.
 
 Python  (default, Mar 28 , 08:03:21) [MSC v.1916 64 bit (AMD64)] :: Anaconda, Inc. on win32
 
-eEnvironment This project was coded with anaconda and Jupyter notebook
+Environment This project was coded with anaconda and Jupyter notebook
 
 # Packages used
 
